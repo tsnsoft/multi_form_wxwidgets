@@ -9,4 +9,4 @@
 
 ![Screenshot](screenshot4.jpg)
 
-Код связи между окнами [тут] (multi_form.htm)
+Код связи между окнами [тут] (./multi_form.htm)

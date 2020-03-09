@@ -9,4 +9,4 @@
 
 ![Screenshot](screenshot4.jpg)
 
-{Код}(multi_form.htm)
+#include "multi_form.htm"

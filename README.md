@@ -9,4 +9,4 @@
 
 ![Screenshot](screenshot4.jpg)
 
-![cute cat image](multi_form.htm)
+{Код}(multi_form.htm)

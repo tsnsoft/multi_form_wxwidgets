@@ -9,4 +9,4 @@
 
 ![Screenshot](screenshot4.jpg)
 
-#include "multi_form.htm"
+{{md multi_form.htm}}

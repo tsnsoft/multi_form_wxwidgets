@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="Form2">
+		<title>Дополнительное окно</title>
+		<centered>1</centered>
+		<size>400,147</size>
+		<pos_arg>1</pos_arg>
+		<size_arg>1</size_arg>
+		<style>wxDEFAULT_DIALOG_STYLE</style>
+		<handler function="OnClose" entry="EVT_CLOSE" />
+		<handler function="OnPaint" entry="EVT_PAINT" />
+		<handler function="OnSetFocus" entry="EVT_SET_FOCUS" />
+		<handler function="OnMouseEnter1" entry="EVT_ENTER_WINDOW" />
+		<object class="wxButton" name="ID_BUTTON1" variable="Button1" member="yes">
+			<label>&lt;&lt;&lt; Назад</label>
+			<pos>32,104</pos>
+			<handler function="OnButton1Click" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+			<label>Метка</label>
+			<pos>72,32</pos>
+		</object>
+		<object class="wxButton" name="ID_BUTTON2" variable="Button2" member="yes">
+			<label>Выход</label>
+			<pos>288,104</pos>
+			<handler function="OnButton2Click" entry="EVT_BUTTON" />
+		</object>
+	</object>
+</wxsmith>

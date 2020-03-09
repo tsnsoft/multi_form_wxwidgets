@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="multi_form_wxwidgetsFrame">
+		<title>Главная форма</title>
+		<centered>1</centered>
+		<size>400,106</size>
+		<style>wxDEFAULT_DIALOG_STYLE</style>
+		<object class="wxButton" name="ID_BUTTON1" variable="Button1" member="yes">
+			<label>Далее &gt;&gt;&gt;</label>
+			<pos>280,72</pos>
+			<handler function="OnButton1Click" entry="EVT_BUTTON" />
+		</object>
+		<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+			<label>Как Ваше имя?</label>
+			<pos>32,24</pos>
+		</object>
+		<object class="wxTextCtrl" name="ID_TEXTCTRL1" variable="TextCtrl1" member="yes">
+			<pos>136,16</pos>
+		</object>
+	</object>
+</wxsmith>

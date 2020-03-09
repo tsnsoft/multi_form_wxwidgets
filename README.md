@@ -9,4 +9,4 @@
 
 ![Screenshot](screenshot4.jpg)
 
-{% include 'multi_form.htm' %}
+![cute cat image](multi_form.htm)

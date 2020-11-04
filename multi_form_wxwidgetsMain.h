@@ -30,8 +30,6 @@ class multi_form_wxwidgetsFrame: public wxFrame
     private:
 
         //(*Handlers(multi_form_wxwidgetsFrame)
-        void OnQuit(wxCommandEvent& event);
-        void OnAbout(wxCommandEvent& event);
         void OnButton1Click(wxCommandEvent& event);
         //*)
 
